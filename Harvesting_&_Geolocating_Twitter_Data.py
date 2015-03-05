@@ -198,3 +198,20 @@ for sg, sn in izip(status_geo, status_geo_screen_names):
                   fill_color='#3186cc', fill_opacity=2.0)
     
 map.create_map(path='us_states.html')
+
+"""
+
+NOTE: If running OS X Yosemite, you may not see the markers appear on your map. 
+
+IF YOUR MARKERS DO NOT APPEAR, refer to:
+
+http://stackoverflow.com/questions/28402244/python-folium-map-markers-do-not-show-on-map-despite-data
+
+"""
+
+
+
+
+
+
+
