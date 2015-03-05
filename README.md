@@ -8,8 +8,10 @@ Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit
 Dasgupta, “Practical Data Science Cookbook: 89 hands-on recipes to
 helpyou complete real-world data science projects in R and Python.”
 
-Not everything will always work exactly as it is written in the recipes
-due to updates, new modules, etc., so you will have to do some puzzle
-cracking and debugging depending on the project, but this has been a
-great resource for getting started and I will always credit these
-authors for helping me dive into this new and exciting work! Thank you!
+Project Goals:
+
+1) Create & Build Twitter API 
+2) Use Python to determine Twitter followers, friends, and pull Twitter user profiles 
+3) Store JSON Twitter data to disk and to MongoDB using PyMongo
+4) Explore the geographic information available in profiles 
+5) Visualize geographic information using Python 
