@@ -27,4 +27,4 @@ Project Goals:
 
 # Toolkit + Credits 
 
-1. [SciPy](<#http://wwww.scipy.org/>)
+1. [SciPy](<http://wwww.scipy.org/>)
