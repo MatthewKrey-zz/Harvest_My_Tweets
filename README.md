@@ -35,7 +35,7 @@ Project Goals:
 
 3. [Pandas](<http://pandas.pydata.org/>) - Provides a robust data frame object and many additional tools to make traditional data and statistical analysis fast and easy. 
 
-4. [Twitter API](<https://dev.twitter.com/rest/public.) - Provides programmatic access to read and write Twitter data. 
+4. [Twitter API](<https://dev.twitter.com/rest/public) - Provides programmatic access to read and write Twitter data. 
 
 5. [Twython](<https://twython.readthedocs.org/en/latest/>) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
 
