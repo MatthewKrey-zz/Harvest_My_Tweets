@@ -25,6 +25,6 @@ Project Goals:
 5) Visualize geographic information using Python 
 
 
-Toolkit + Credits 
+# Toolkit + Credits 
 
 1. [SciPy](#http://wwww.scipy.org/) 
