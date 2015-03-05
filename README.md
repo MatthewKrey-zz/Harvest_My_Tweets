@@ -11,7 +11,15 @@ helpyou complete real-world data science projects in R and Python.”
 Project Goals:
 
 1) Create & Build Twitter API 
+
+
 2) Use Python to determine Twitter followers, friends, and pull Twitter user profiles 
+
+
 3) Store JSON Twitter data to disk and to MongoDB using PyMongo
+
+
 4) Explore the geographic information available in profiles 
+
+
 5) Visualize geographic information using Python 
